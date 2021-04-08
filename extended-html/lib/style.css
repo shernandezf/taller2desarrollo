@@ -1,0 +1,74 @@
+/* Add your styles here */
+.arreglarcajas{
+  margin: 1px;
+  min-height: 300px;
+  
+  text-align: center;
+  background-color: gainsboro;
+  
+}
+.arreglarcajas2{
+  margin: 1px;
+  min-height: 300px;
+  min-width: 170px;
+  text-align: center;
+  background-color: gainsboro;
+  
+}
+.text-left{
+float:left;
+width:50%
+}
+.text-right{
+float:right;
+width:50%
+}
+
+.arreglarcajas3
+{
+  margin: 1px;
+  min-height: 250px;
+  max-width: 180px;
+  text-align: center;
+  background-color: gainsboro;
+}
+.final
+{
+  margin: 1px;
+  min-height: 250px;
+  max-width: 180px;
+  text-align: center;
+  background-color: gainsboro;
+}
+.arreglarcajas3_2
+{
+  margin: 1px;
+  min-height: 250px;
+  min-width: 253px;
+  text-align: center;
+  
+}
+
+h3
+{
+  text-align: left;
+}
+h5
+{
+  text-align: left;
+}
+.divnombre
+{
+  margin: 1px;
+  min-height: 100px;
+  min-width: 600px;
+  text-align: center;
+  background-color: gray;
+}
+.divtodo
+{
+   margin: 1px;
+  min-height: 100px;
+  min-width: 860px;
+  text-align: center;
+}
